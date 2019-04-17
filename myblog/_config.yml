@@ -1,12 +1,12 @@
-title: Minimaless Demo
+title: P.H. Huang
 author: GitHub User
-email: your-email@domain.com
+email: pohsuanh@usc.edu
 description: >
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "/minimaless" # the subpath of your site, e.g. /blog
-url: "http://www.brettgardiner.net/minimaless" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/myblog" # the subpath of your site, e.g. /blog
+url: "Po-Hsuan-Huang-github.io/myblog" # the base hostname & protocol for your site, e.g. http://example.com
 
 website: Po-Hsuan-Huang-github.io
 github_username: Po-Hsuan-Huang 
@@ -39,11 +39,14 @@ paginate_path: "/page:num/"
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
-  - _pages/blog.md
-  - _pages/about.md
-  - _pages/contact.md
-  - _pages/setup.md
-  - _pages/github.md
+  - _pages/about.md  # short discription/ Curriculum Vitae/ Selected Honors/ Contact
+  - _pages/projects.md # protfolio ( originally feature&setup  )
+  - _pages/blog.md    
+  - _pages/publications.md 
+  - _pages/github.md # should be the "code" sub-categories under resource page 
+  - _pages/contact.md  # Address/ Map-plugin / LinkedIn/ 
+
+  # considering merging blogs/codes/ project/ under the name research
 
 plugins:
   - jekyll-feed
@@ -52,6 +55,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-archives
   - jekyll-paginate
+  - jekyll-include-cache
 
 markdown: kramdown
 theme: minimaless
@@ -77,4 +81,4 @@ exclude:
   - node_modules
   - package.json
   - Rakefile
-- tmp
+  - tmp
