@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is a Jekyll theme called Minimaless. It's forked from the popular theme Minima. It's like Minima, but there's less noise.
+# Research
+  My research interest resides at the intersection of the three fields that concerns the fundamentals of intelligence: cognitive neuroscience, machine learning, and computational neuroscience. As a doctoral student in computational neuroscience, my supervisor and I seek to shed light on intelligence from the angle of computational modeling of human visual system. In particular, we are interested in modeling of  attention mechanism with insights from machine learning and A.I. Also, We collaborate with psychologists specialized in atttention deficit disorders in childrens hospitals to run experiments to verify hypothesis. 
 
-This is a good theme for portfolios and blogs. It's not a good theme for meeting hot singles in your area. You can see a production example of this site on the author's [blog](http://www.brettgardiner.net). Check out the source code for this Jekyll theme:
+ We heavily rely on their expertise in cognitive neuroscience and psychophysics to design experiments. On our side, we utilize deep learning to extract the hidden patterns that differentiate seemingly indistinguishable gazing behaviors between patients and healthy people. Further, we interpret the extracted patterns to illuminate how top-down visual attention works in theory, which in turn will help us design better algorithm to aid clinical diagnosis. 
 
-[brettinternet<i class="fa fa-external-link"></i>](https://github.com/brettinternet){:target="_blank"} /
-[minimaless<i class="fa fa-external-link"></i>](https://github.com/brettinternet/minimaless){:target="_blank"}.
+# Future Plan 
+ 
+Among all mysteries that are beyond grasps of human intelligence, understanding human minds fascinates me the most. To deepen my understanding of human intelligence, I am pursuing a PhD degree that combines neuroscience and A.I. I expect the PhD training and the resources provided by the university will eventually allow me to incubate a project to unravel the secret formula to create intelligence.  To spin off the project, I would like to join research teams in companies or government agencies to continue my scientific pursuit, meanwhile participate in directing the development of A.I. technology to benefit general public.
 
-<br/>
-Visit this site's [blog]({{site.baseurl}}) or [contact]({{site.baseurl}}/contact/) page.
+

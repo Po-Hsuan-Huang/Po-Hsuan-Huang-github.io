@@ -1,7 +1,7 @@
 ---
 layout: about
-title: About
-permalink: /about/
+title: Publications
+permalink: /Publications/
 ---
 
 This is a Jekyll theme called Minimaless. It's forked from the popular theme Minima. It's like Minima, but there's less noise.
