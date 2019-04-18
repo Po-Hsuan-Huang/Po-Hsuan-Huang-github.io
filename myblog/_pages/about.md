@@ -4,6 +4,15 @@ title: About
 permalink: /about/
 ---
 
+# About
+Po-Hsuan-Huang
+
+Doctoral Candidate
+
+His research area includes Robotis, AI, Neuroscience, and Brain-Machine-Interface.
+
+Interested in counsciousness.
+
 # Research
   My research interest resides at the intersection of the three fields that concerns the fundamentals of intelligence: cognitive neuroscience, machine learning, and computational neuroscience. As a doctoral student in computational neuroscience, my supervisor and I seek to shed light on intelligence from the angle of computational modeling of human visual system. In particular, we are interested in modeling of  attention mechanism with insights from machine learning and A.I. Also, We collaborate with psychologists specialized in atttention deficit disorders in childrens hospitals to run experiments to verify hypothesis. 
 
