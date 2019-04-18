@@ -5,14 +5,11 @@ permalink: /contact/
 ---
 
 
-# Google Map Embed Here
+## Map
 
-# Address
+## Address
 
 B10 Hedco Neuroscience Building, University of Southern California, Los Angeles, 90007, USA
 
-# Contact
+### Contact
 
-**Po-Hsuan Huang** about [email](pohsuanh@usc.edu).
-
-Also, you might not want to display this many modes of contact.

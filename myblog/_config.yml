@@ -43,7 +43,6 @@ header_pages:
   - _pages/projects.md # protfolio ( originally feature&setup  )
   - _pages/blog.md    
   - _pages/publications.md 
-  - _pages/github.md # should be the "code" sub-categories under resource page 
   - _pages/contact.md  # Address/ Map-plugin / LinkedIn/ 
 
   # considering merging blogs/codes/ project/ under the name research
