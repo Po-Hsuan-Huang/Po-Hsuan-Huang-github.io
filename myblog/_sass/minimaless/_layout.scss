@@ -294,7 +294,7 @@
   @include relative-font-size(1.25);
 }
 @for $i from 1 through 15 {
-  .blog li:nth-child(#{$i}),
+  .posts li:nth-child(#{$i}),
   .contact .contact-icons li:nth-child(#{$i}),
   .splash p:nth-child(#{$i}),
   .splash .contact-icons li:nth-child(#{$i}),
